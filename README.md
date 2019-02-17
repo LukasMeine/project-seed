@@ -1,6 +1,6 @@
-# Shitty-men
+# Seed
 
-Stupid in every level: uses Mongo, Express and Node to create a rest api. Even a 11 year old can do this. But we do it and... we make some money.
+Seed - Basically the developer's heaven. A node and mongo Rest API project template. A seed, which can grow into something way bigger.
 
 ## About the configurations
 
