@@ -1,6 +1,6 @@
-# Seed
+![tree-from-seed-aaron-spong](https://user-images.githubusercontent.com/20716798/52921428-bebdd900-32f5-11e9-9cb2-8da1a1790165.jpg)
 
-Seed - Basically the developer's heaven. A node and mongo Rest API project template. A seed, which can grow into something way bigger.
+> Seed - Basically the developer's heaven. A node and mongo Rest API project template. A seed, which can grow into something way bigger.
 
 ## About the configurations
 
