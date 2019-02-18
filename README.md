@@ -2,6 +2,18 @@
 
 <h4 align="center">A node and mongo Rest API project template. A seed, which can grow into something way bigger.</h4>
 
+<div align="center">
+  <sub>Created by
+  <a href="https://github.com/LukasMeine">Lucas Meine</a> 
+  <a href="https://github.com/conilas">Nicolas Meinen</a> and
+  <a href="https://github.com/RafaArantes">Rafael Arantes</a>
+</div>
+    
+<div align="center">
+  <sub>Art by
+  <a href="https://www.facebook.com/AaronSpongFineArt/">Aaron Spong</a>
+</div>
+
 <br>
 
 ## About the configurations
