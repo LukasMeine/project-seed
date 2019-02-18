@@ -4,7 +4,7 @@
 
 <div align="center">
   <sub>Created by
-  <a href="https://github.com/LukasMeine">Lucas Meine</a> 
+  <a href="https://github.com/LukasMeine">Lucas Meine</a>, 
   <a href="https://github.com/conilas">Nicolas Meinen</a> and
   <a href="https://github.com/RafaArantes">Rafael Arantes</a>
 </div>
