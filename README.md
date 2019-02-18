@@ -29,9 +29,9 @@
 
 ## Quickstart With Docker
 
-Install Docker
+Install [Docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 
-Install Docker-compose
+Install [Docker-compose](https://docs.docker.com/compose/install/)
 
 In your terminal, run:
 
