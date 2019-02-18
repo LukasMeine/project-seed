@@ -39,7 +39,7 @@ In your terminal, run:
 docker-compose build 
 ```
 
-In your terminal, run
+In your terminal, run:
 
 ``` 
 docker-compose up
