@@ -1,6 +1,6 @@
 ![the-seed-project](https://user-images.githubusercontent.com/20716798/52921746-0c881080-32f9-11e9-87cf-676ec2220f29.jpg)
 
-> Seed - Basically the developer's heaven. A node and mongo Rest API project template. A seed, which can grow into something way bigger.
+<h4 align="center">A node and mongo Rest API project template. A seed, which can grow into something way bigger.</h4>
 
 ## About the configurations
 
