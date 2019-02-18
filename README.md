@@ -27,6 +27,19 @@
 
 <br>
 
+## Quickstart With Docker
+
+Install Docker
+
+Install Docker-compose
+
+In your terminal, run:
+``` docker-compose build ```
+
+- In your terminal, run
+``` docker-compose up ```
+
+
 ## About the configurations
 
 ### Database
