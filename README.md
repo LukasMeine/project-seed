@@ -47,7 +47,7 @@ If you need to make changes to the binded IP of the server (although it binds cu
 You will find the following (at line ~17):
 
 ```javascript
-const port = process.env.PORT || 8080; // set our port
+const port = process.env.PORT || 3000; // set our port
 ```
 That is where you may change the default port. You can also pass the argument <code>--port</code> in case you need to bind to any other port instead of the default one.
 
