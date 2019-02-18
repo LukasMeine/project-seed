@@ -8,7 +8,7 @@ module.exports = {
   },
 
   singleDocumentResponse(res, doc) {
-    return res.status(200).json({ code: 200, ...doc });
+    return res.status(200).json({ code: 200, doc });
   },
 
   defaultMongoCallback(res, successMessage){
