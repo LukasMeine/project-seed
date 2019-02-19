@@ -17,11 +17,6 @@
   <a href="https://github.com/conilas">Nicolas Meinen</a> and
   <a href="https://github.com/RafaArantes">Rafael Arantes</a>
 </div>
-    
-<div align="center">
-  <sub>Art by
-  <a href="https://www.facebook.com/AaronSpongFineArt/">Aaron Spong</a>
-</div>
 
 <br>
 
