@@ -1,6 +1,7 @@
 
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/20716798/54037149-3c119680-419c-11e9-9554-9bd7855049bb.gif" alt="The Seed Project" height="600px"/>
+ </p>
 
 <h4 align="center">A node and mongo Rest API project template. A seed, which can grow into something way bigger.</h4>
 
