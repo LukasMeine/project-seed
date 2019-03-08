@@ -1,4 +1,4 @@
-![the-seed-project](https://absurd.design/assets/img/Surrealist-Lightbulb.gif)
+![The Seed Project](https://user-images.githubusercontent.com/20716798/54037149-3c119680-419c-11e9-9554-9bd7855049bb.gif)
 
 <h4 align="center">A node and mongo Rest API project template. A seed, which can grow into something way bigger.</h4>
 
