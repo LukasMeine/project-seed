@@ -1,3 +1,5 @@
+![the-seed-project](https://absurd.design/assets/img/Surrealist-Lightbulb.gif)
+
 <h4 align="center">A node and mongo Rest API project template. A seed, which can grow into something way bigger.</h4>
 
 <p align="center">
@@ -16,6 +18,11 @@
   <a href="https://github.com/LukasMeine">Lucas Meine</a>, 
   <a href="https://github.com/conilas">Nicolas Meinen</a> and
   <a href="https://github.com/RafaArantes">Rafael Arantes</a>
+</div>
+    
+<div align="center">
+  <sub>Art by
+  <a href="https://absurd.design/">absurd.design</a>
 </div>
 
 <br>
