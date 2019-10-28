@@ -1,8 +1,8 @@
-const express = require("express");
-const router = express.Router();
-const usersController = require("../repository/users.js");
-const auth = require("../repository/auth.js");
-const Authentication = new auth();
+var express = require("express");
+var router = express.Router();
+var usersController = require("../repository/users.js");
+var auth = require("../repository/auth.js");
+var Authentication = new auth();
 
 /**
 {
